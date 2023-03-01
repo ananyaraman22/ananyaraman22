@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Raman
 - 👀 I’m interested in Python, Web Development and Devops. 
-- 🌱 I’m currently learning Kubernetes, DSA, etc.
+<!-- - 🌱 I’m currently learning Kubernetes, DSA, etc. -->
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me connect --->
 
